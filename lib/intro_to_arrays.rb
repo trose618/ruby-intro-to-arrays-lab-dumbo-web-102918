@@ -1,7 +1,3 @@
-def instantiate_new_array
-  array = []
-end
+instantiate_new_array = []
 
-def array_with_two_elements
-  array = [" ", " "]
-end
+array_with_two_elements = [" ", " "]
